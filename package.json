@@ -2,6 +2,10 @@
   "name": "tomb.finance",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "node": "v16.3.0",
+    "npm": "7.15.1"
+  },
   "dependencies": {
     "@babel/helper-environment-visitor": "^7.16.7",
     "@emotion/react": "^11.7.1",
